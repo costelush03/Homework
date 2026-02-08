@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|c:\\users\\admin\\desktop\\homework\\hw10\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|c:\\users\\admin\\desktop\\homework\\hw10\\homework\\homework\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|solutionrelative:homework\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|c:\\users\\admin\\desktop\\homework\\hw10\\homework\\homework\\file1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|solutionrelative:homework\\file1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|c:\\users\\admin\\desktop\\homework\\hw10\\homework\\homework\\ex2\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|solutionrelative:homework\\ex2\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|c:\\users\\admin\\desktop\\homework\\hw10\\homework\\homework\\ex1\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4380895-D3D6-4405-AEFC-5E5C54CBF52A}|Homework\\Homework.csproj|solutionrelative:homework\\ex1\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File2.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\File2.txt",
+              "RelativeDocumentMoniker": "Homework\\File2.txt",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\File2.txt",
+              "RelativeToolTip": "Homework\\File2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-08T18:56:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File1.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\File1.txt",
+              "RelativeDocumentMoniker": "Homework\\File1.txt",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\File1.txt",
+              "RelativeToolTip": "Homework\\File1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-08T18:56:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileMover.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Ex2\\FileMover.cs",
+              "RelativeDocumentMoniker": "Homework\\Ex2\\FileMover.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Ex2\\FileMover.cs",
+              "RelativeToolTip": "Homework\\Ex2\\FileMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:45:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileComparer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Ex1\\FileComparer.cs",
+              "RelativeDocumentMoniker": "Homework\\Ex1\\FileComparer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Ex1\\FileComparer.cs",
+              "RelativeToolTip": "Homework\\Ex1\\FileComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:44:55.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Homework\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Homework\\hw10\\Homework\\Homework\\Program.cs",
+              "RelativeToolTip": "Homework\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:41:12.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
